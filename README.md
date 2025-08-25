@@ -19,3 +19,6 @@ curl -X POST http://localhost:3000/send-text -H "Content-Type: application/json"
 
 ganti localhost jadi server ip sama data `-d` `to` diganti nomernya tujuan.
 
+
+
+* note: install chromium
