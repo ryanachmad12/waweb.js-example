@@ -1,6 +1,3 @@
-Oke, biar lebih rapih dan enak dibaca, aku susun ulang markdown untuk **Usage Guide** kamu. Jadi step-by-step dengan block code yang jelas:
-
-````markdown
 ## Example Usage
 
 ### 1. Clone repository
